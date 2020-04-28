@@ -15,7 +15,7 @@ Software is written in PYTHON Version 3.7. Using the PYcharm IDE to manage the p
 1. Download and unzip the TipSelectorAddition.rar Pycharm environment
 2. Place the folder TipSelectorAddition in your Pycharm project folder and import as a new project
 3. All packages should work when adding the python.exe within the project folder as the project interpreter (check against packages.csv if you suspect something is missing)
-4. Open the py files mentioned in code.txt inside Pycharm. They are located in ...\TipSelectorAddition\venv\Scripts\
+4. Add the py files mentioned in code.txt inside Pycharm (File > Open > filename) . They are located in ...\TipSelectorAddition\venv\Scripts\
 5. Place the folders parsed and landing_pages inside the TipSelectorData.zip in your current working directory (or configure your own working directory)
 6. Change the working directory in the code files to the one you are using
 
@@ -29,4 +29,4 @@ Software is written in PYTHON Version 3.7. Using the PYcharm IDE to manage the p
 
 
 # Additional files:
-Plain_code: Folder containing the plain code without all the project files
+Plain_code: The PYTHON files in this repository are the plain code used in the Pycharm project environment.
